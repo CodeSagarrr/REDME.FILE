@@ -6,15 +6,17 @@ Hi, I'm Sagar vishwakarma! I'm a passionate full-stack developer specializing in
 Frontend: React, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
 Backend: Node.js, Express.js, MongoDB, REST APIs, WebSockets
 Version Control: Git, GitHub
+
 🔨 Projects
 I enjoy building projects that challenge my skills and help me grow. Some of my key projects include:
-
 E-Commerce Web Application: A fully-featured e-commerce platform with cart functionality, user authentication, and payment integration.
 Real-Time Collaboration Tool: A tool where multiple users can work on the same document in real-time, with features like user authentication and live updates using WebSockets.
-IMDB_APP_CLONE 
+IMDB_APP_CLONE :- This project is dedicated to gaining a deep understanding of React.js and Tailwind CSS. It focuses on building modern, responsive web applications by leveraging the power of React for dynamic user interfaces and Tailwind CSS for efficient, utility-first styling.
+
 🌱 Currently Learning
 Building scalable microservices
 Exploring GraphQL and server-side rendering with Next.js
+
 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/sagar-vishwakarma-bb7939304/
 Email: sv472921@gmail.com
